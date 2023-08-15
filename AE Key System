@@ -131,7 +131,7 @@ _G.KeyInput = "string"
 
 
 function MakeScriptHub()
-    loadstring(game:HttpGet(('https://raw.githubusercontent.com/Redwayzero/Sw-Hub-V3-Main-/main/Sw%20Hub%20V3%20Main')))()
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/Redwayzero/AE-Hub-Main-Scripts/main/AE%20Game%20Scripts')))()
 end
 
 
